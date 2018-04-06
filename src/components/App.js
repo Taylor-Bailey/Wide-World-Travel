@@ -9,6 +9,7 @@ class App extends Component {
       <div className="App">
         <Header title="Wide World Travel, Inc"/>
         <Image />
+        <Footer />
       </div>
     );
   }
