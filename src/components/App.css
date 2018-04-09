@@ -7,16 +7,23 @@
   height: 80px;
 }
 
-.App-background {
-  width: 85%;
-  margin-top: 5em
-}
-
 .App-header {
   background-color: rgb(48, 48, 48);
   height: 50px;
   padding: 20px;
   color: rgb(223, 245, 255);
+}
+
+.App-footer{
+  background-color: rgb(48, 48, 48);
+
+}
+.App-footer ul {
+  list-style-type: none;
+  /* height: 50px; */
+  padding: 20px;
+  color: rgb(223, 245, 255);
+  margin: 1.5em auto 0;
 }
 
 .App-title {
