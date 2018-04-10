@@ -1,0 +1,11 @@
+.Image-div {
+    width: 98%;
+    padding:15px;
+    margin: 15px auto;
+    background-color: #e1deee;
+    overflow: hidden;
+  }
+
+.Background-image {
+    width: 100%;    
+}
