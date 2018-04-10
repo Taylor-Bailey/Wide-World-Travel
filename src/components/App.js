@@ -5,6 +5,7 @@ import Image from './Image';
 import bg from '../images/sci.png'
 import Footer from './Footer';
 import Destination from './Destination';
+import Guides from './Guide';
 
 class App extends Component {
   render() {
@@ -12,6 +13,7 @@ class App extends Component {
       <div className="App">
         <Header title="Wide World Travel, Inc"/>
         <Image bg={bg} />
+        <Guides  Guide={Guides}/>
         <Footer Destination={Destination}/>
       </div>
     );
