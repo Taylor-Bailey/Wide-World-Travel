@@ -1,0 +1,11 @@
+.App-footer ul {
+    list-style-type: none;
+    /* height: 50px; */
+    /* padding: 20px; */
+    color: rgb(223, 245, 255);
+    margin: 1.5em auto 0;
+  }
+
+  .copy {
+    color: rgb(223, 245, 255);
+  }
